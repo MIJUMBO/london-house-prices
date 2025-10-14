@@ -78,6 +78,8 @@ Prime boroughs (Westminster, Kensington & Chelsea) still grew significantly, sho
 
 Overall, London’s center of growth shifted eastward, transforming once lower-cost areas into vibrant communities.
 
+
+
 🧰 Tools Used
 
 Python 3
@@ -88,13 +90,17 @@ Matplotlib
 
 Jupyter Notebook
 
+
+
+
 📁 Repository Contents
 
 london-house-prices.ipynb → Main analysis notebook
 
-data/ → Cleaned dataset (if included)
+data/ → Cleaned dataset (included)
 
 README.md → Project summary and insights
+
 
 🏁 Conclusion
 
