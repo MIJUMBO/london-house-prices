@@ -69,6 +69,10 @@ ax.set_ylabel('London Borough')
 plt.savefig("house_price_growth.png", bbox_inches='tight')
 plt.show()
 
+## 📊 House Price Growth (1998–2018)
+
+![House Price Growth](house_price_growth.png)
+
 
 🧠 Insights
 
