@@ -104,5 +104,6 @@ README.md → Project summary and insights
 
 🏁 Conclusion
 
-Between 1998 and 2018, Hackney experienced the largest growth in average house prices (over 500%), reflecting regeneration, gentrification, and transport improvements.
-This trend highlights the significant economic and social transformation across East London over the past two decades.
+Between 1998 and 2018, Hackney experienced the largest growth in average house prices (over 500%), reflecting regeneration,
+gentrification, and transport improvements.This trend highlights the significant economic and social transformation across
+East London over the past two decades.
