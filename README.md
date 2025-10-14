@@ -65,6 +65,8 @@ ax = top15.sort_values('Growth_%', ascending=False).plot(
 ax.set_title('House Price Growth (1998–2018) by London Borough', fontsize=14)
 ax.set_xlabel('Growth Percentage (%)')
 ax.set_ylabel('London Borough')
+# Save the plot as a PNG
+plt.savefig("house_price_growth.png", bbox_inches='tight')
 plt.show()
 
 
