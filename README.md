@@ -76,13 +76,13 @@ plt.show()
 
 ## 🧠 Insights
 
-East and Southeast London (Hackney, Waltham Forest, Lewisham, Newham) experienced the highest growth — driven by regeneration, improved transport, and affordability.
+1. East and Southeast London (Hackney, Waltham Forest, Lewisham, Newham) experienced the highest growth — driven by regeneration, improved transport, and affordability.
 
-Inner-city boroughs (Southwark, Lambeth, Camden) also grew strongly due to urban redevelopment and proximity to central London.
+2. Inner-city boroughs (Southwark, Lambeth, Camden) also grew strongly due to urban redevelopment and proximity to central London.
 
-Prime boroughs (Westminster, Kensington & Chelsea) still grew significantly, showing strong long-term demand.
+3. Prime boroughs (Westminster, Kensington & Chelsea) still grew significantly, showing strong long-term demand.
 
-Overall, London’s center of growth shifted eastward, transforming once lower-cost areas into vibrant communities.
+4. Overall, London’s center of growth shifted eastward, transforming once lower-cost areas into vibrant communities.
 
 
 
