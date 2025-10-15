@@ -50,6 +50,8 @@ This project analyzes housing price changes across **London boroughs** from **19
 | 14 | **Islington** | 0.207 | **384.2%** |
 | 15 | **Greenwich** | 0.210 | **376.4%** |
 
+![House Price Growth](https://github.com/MIJUMBO/london-house-prices/blob/main/house_price_growth.png?raw=true)
+
 ---
 
 ## 📊 Visualization Example
