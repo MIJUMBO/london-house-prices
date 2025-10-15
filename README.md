@@ -57,7 +57,7 @@ This project analyzes housing price changes across **London boroughs** from **19
 
 ## 📊 Visualization Example
 
-```python
+```## python
 ax = top15.sort_values('Growth_%', ascending=False).plot(
     kind='barh',
     x='Borough',
@@ -84,7 +84,7 @@ plt.show()
 
 4. Overall, London’s center of growth shifted eastward, transforming once lower-cost areas into vibrant communities.
 
-
+---
 
 ## 🧰 Tools Used
 
@@ -97,7 +97,7 @@ Matplotlib
 Jupyter Notebook
 
 
-
+---
 
 ## 📁 Repository Contents
 
@@ -107,6 +107,8 @@ data/ → Cleaned dataset (included)
 
 README.md → Project summary and insights
 
+
+---
 
 🏁 Conclusion
 
