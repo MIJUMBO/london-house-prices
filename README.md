@@ -70,7 +70,7 @@ ax.set_ylabel('London Borough')
 # Save the plot as a PNG
 plt.savefig("house_price_growth.png", bbox_inches='tight')
 plt.show()
-
+---
 ## 📊 House Price Growth (1998–2018)
 ![House Price Growth](https://github.com/MIJUMBO/london-house-prices/blob/main/house_price_growth.png?raw=true)
 
