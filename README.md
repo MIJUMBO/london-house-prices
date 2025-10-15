@@ -71,7 +71,8 @@ plt.show()
 
 ## 📊 House Price Growth (1998–2018)
 
-![House Price Growth](house_price_growth.png)
+<img width="978" height="545" alt="house_price_growth" src="https://github.com/user-attachments/assets/b310618e-e586-45be-b99a-fd0fbb75717a" />
+
 
 
 🧠 Insights
