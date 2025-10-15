@@ -50,6 +50,7 @@ This project analyzes housing price changes across **London boroughs** from **19
 | 14 | **Islington** | 0.207 | **384.2%** |
 | 15 | **Greenwich** | 0.210 | **376.4%** |
 
+## 📊 House Price Growth (1998–2018)
 ![House Price Growth](https://github.com/MIJUMBO/london-house-prices/blob/main/house_price_growth.png?raw=true)
 
 ---
@@ -70,13 +71,10 @@ ax.set_ylabel('London Borough')
 # Save the plot as a PNG
 plt.savefig("house_price_growth.png", bbox_inches='tight')
 plt.show()
+
 ---
-## 📊 House Price Growth (1998–2018)
-![House Price Growth](https://github.com/MIJUMBO/london-house-prices/blob/main/house_price_growth.png?raw=true)
 
-
-
-🧠 Insights
+## 🧠 Insights
 
 East and Southeast London (Hackney, Waltham Forest, Lewisham, Newham) experienced the highest growth — driven by regeneration, improved transport, and affordability.
 
@@ -88,7 +86,7 @@ Overall, London’s center of growth shifted eastward, transforming once lower-c
 
 
 
-🧰 Tools Used
+## 🧰 Tools Used
 
 Python 3
 
@@ -101,7 +99,7 @@ Jupyter Notebook
 
 
 
-📁 Repository Contents
+## 📁 Repository Contents
 
 london-house-prices.ipynb → Main analysis notebook
 
