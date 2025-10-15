@@ -21,9 +21,9 @@ This project analyzes housing price changes across **London boroughs** from **19
 
 3. **Growth Calculation**
    - Computed percentage growth using:  
-     \[
-     Growth\% = \left(\frac{1}{Ratio} - 1\right) \times 100
-     \]
+   
+     Growth\% = (1 / df_ratios['Ratio_2018'] - 1) * 100
+     
 
 4. **Visualization**
    - Created horizontal bar charts to display the top 15 boroughs with the highest growth.
