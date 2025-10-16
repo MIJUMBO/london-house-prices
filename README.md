@@ -20,17 +20,17 @@ This project analyzes housing price changes across **London boroughs** from **19
    - Defined a function `create_price_ratio()` to calculate the price ratio between 1998 and 2018 for each borough.
 
 3. **Growth Calculation**
+   - Defined create_price_ratio by dividing [price_1998/price_2018] across each of London Borough.
    - Computed percentage growth using:  
-   
      Growth\% = (1 / df_ratios['Ratio_2018'] - 1) * 100
      
-
-4. **Visualization**
-   - Created horizontal bar charts to display the top 15 boroughs with the highest growth.
-
+ 4. **Visualization**
+   - Created horizontal bar charts to display the top 15 boroughs with the highest growth    
 ---
 
-## 💹 Key Findings — *Top 15 Boroughs by Growth (%)*
+## 💹 Key Findings **
+
+## Top 15 Boroughs by Growth (%)*
 
 | Rank | Borough | Ratio_2018 | Growth % |
 |:----:|:---------|:-----------|:----------|
@@ -50,27 +50,9 @@ This project analyzes housing price changes across **London boroughs** from **19
 | 14 | **Islington** | 0.207 | **384.2%** |
 | 15 | **Greenwich** | 0.210 | **376.4%** |
 
-## 📊 House Price Growth (1998–2018)
+
+## 📊 Average House Price Growth (1998–2018)
 ![House Price Growth](https://github.com/MIJUMBO/london-house-prices/blob/main/house_price_growth.png?raw=true)
-
----
-
-## 📊 Visualization Example
-
-```## python
-ax = top15.sort_values('Growth_%', ascending=False).plot(
-    kind='barh',
-    x='Borough',
-    y='Growth_%',
-    figsize=(10,6),
-    color='skyblue'
-)
-ax.set_title('House Price Growth (1998–2018) by London Borough', fontsize=14)
-ax.set_xlabel('Growth Percentage (%)')
-ax.set_ylabel('London Borough')
-# Save the plot as a PNG
-plt.savefig("house_price_growth.png", bbox_inches='tight')
-plt.show()
 
 ---
 
@@ -85,6 +67,12 @@ plt.show()
 4. Overall, London’s center of growth shifted eastward, transforming once lower-cost areas into vibrant communities.
 
 ---
+
+##  Conclusion
+
+Between 1998 and 2018, Hackney experienced the largest growth in average house prices (over 500%), reflecting regeneration,
+gentrification, and transport improvements.This trend highlights the significant economic and social transformation across
+East London over the past two decades.
 
 ## 🧰 Tools Used
 
@@ -110,8 +98,4 @@ README.md → Project summary and insights
 
 ---
 
-🏁 Conclusion
 
-Between 1998 and 2018, Hackney experienced the largest growth in average house prices (over 500%), reflecting regeneration,
-gentrification, and transport improvements.This trend highlights the significant economic and social transformation across
-East London over the past two decades.
