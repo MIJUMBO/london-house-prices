@@ -20,7 +20,6 @@ This project analyzes housing price changes across **London boroughs** from **19
    - Defined a function `create_price_ratio()` to calculate the price ratio between 1998 and 2018 for each borough.
 
 3. **Growth Calculation**
-   - Defined create_price_ratio by dividing [price_1998/price_2018] across each of London Borough.
    - Computed percentage growth using:  
      Growth\% = (1 / df_ratios['Ratio_2018'] - 1) * 100
      
